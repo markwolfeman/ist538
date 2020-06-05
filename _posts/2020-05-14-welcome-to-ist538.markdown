@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Course Introduction and XML (Part 1)"
+title:  "Welcome to IST 538"
 date:   2020-05-14 17:31:06 -0400
 categories: jekyll update
 ---

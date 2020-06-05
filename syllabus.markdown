@@ -11,6 +11,7 @@ June 22, 2020 - July 31, 2020
 Fully Online (100%)
 
 INSTRUCTOR INFORMATION
+
 Instructor, Mark Wolfe
 
 <img src="/assets/images/instructor_wolfe.jpg" alt="Instructor" height="42" width="42">
