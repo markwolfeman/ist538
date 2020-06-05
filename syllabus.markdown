@@ -15,7 +15,7 @@ INSTRUCTOR INFORMATION
 Instructor, Mark Wolfe
 
 
-![Instructor](/assets/images/instructor_wolfe.jpg)
+![Instructor](/assets/instructor_wolfe.jpg =48x48)
 
 Program in <a href="https://www.albany.edu/cehc/programs/ms-information-science">Information Science</a>
 
