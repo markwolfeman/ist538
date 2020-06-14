@@ -10,7 +10,7 @@ permalink: about
 
 IST 538 / 3 Credits / Summer 2020 (6W2)
 
-June 22, 2020 - July 31, 2020
+**June 22, 2020 - July 31, 2020**
 
 Fully Online (100%)
 
