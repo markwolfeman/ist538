@@ -18,6 +18,9 @@ Videos:
 Presentation:    
 - [Introduction to XML](https://www.albany.edu/~mwolfe/ist538/unit1/XML_unit1.pptx) [.pptx]
 
+Exercise:
+- All Class Exercise: Get to know your classmates [link]
+
 ------------
 # Unit 2: June 24 Introduction and XML (Part 2)
 
