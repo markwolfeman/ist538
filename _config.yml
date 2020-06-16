@@ -23,7 +23,7 @@ title: IST 538 Fundamentals of XML
 description: >- # this means to ignore newlines until "baseurl:"
  IST 538, Fundamentals of XML is taught fully online, and introduces students to Extensible Markup 
  Language or XML.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "ist538" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
