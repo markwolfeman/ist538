@@ -17,7 +17,7 @@ Instructor, Mark Wolfe
 <br/>Login Schedule: Daily, 10am &amp; 5pm
 <br/>Email: <a href="mwolfe@albany.edu">mwolfe@albany.edu</a>
 <br/>Blackboard <a href="https://blackboard.albany.edu/">[link]</a>
-<br/>Ask a Question <a href="https://tinyurl.com/ybuckcku">[link]</a>
+<br/>Ask a Question <a href="https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_140050_1&nav=discussion_board_entry&conf_id=_225257_1&forum_id=_413819_1">[link]</a>
 
 # Learning Outcomes
 Upon completion of this course, students will: 
@@ -44,8 +44,8 @@ Upon completion of this course, students will:
 
 Students must have access to a computer and a high-speed Internet connection, and a technology back-up plan in order to take the course. 
 
-We will use [Notepad++](https://notepad-plus-plus.org/downloads/) and [BaseX](http://basex.org/) to edit and process XML documents. These applications will be featured in video tutorials. Both applications are installed on all University ITS supported computers as well as in the Information Commons. If you are using your own computer, you will need to install a version yourself. If you are on a Mac or Windows, [XMLSpear](http://www.donkeydevelopment.com/) is a good XML text editor. 
-
+We will use [Notepad++](https://notepad-plus-plus.org/downloads/) for editing XML documents, which is only for Windows users. If you use Mac or Windows, [XMLSpear](http://www.donkeydevelopment.com/) is a good XML text editor. 
+Later in the course we will use the software [BaseX](http://basex.org/) to edit and process XQuery statements. These applications will be featured in video tutorials. If you are using your own computer, you will need to install a version yourself. 
 In addition to installing Notepad++, you must add a plugin called XML Tools to enhance our productivity when working with XML documents. For the XQuery module part of the course, we will use BaseX to process our code. 
 
 # Readings

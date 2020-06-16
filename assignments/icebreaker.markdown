@@ -4,9 +4,7 @@ title:
 permalink:
 ---
 
-# Icebreaker
-
-
+<h1> Icebreaker</h1>
 
 - Using the forum "Meet Your Classmates" on the Discussion Board, create a thread that gives information about yourself. If you want to post a picture or links related to the questions below, please do.
 
