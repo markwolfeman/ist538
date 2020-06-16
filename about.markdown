@@ -8,9 +8,10 @@ permalink: about
 
 ![Instructor](/assets/instructor_wolfe.jpg)
 
-IST 538 / 3 Credits / Summer 2020 (6W2)
+<br/>Email: <a href="mwolfe@albany.edu">mwolfe@albany.edu</a>
 
-**June 22, 2020 - July 31, 2020**
+
+Course session: **June 22, 2020 - July 31, 2020**
 
 Fully Online (100%)
 
