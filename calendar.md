@@ -3,7 +3,7 @@ layout: page
 title: Calendar
 permalink: /calendar/
 ---
-
+[subject to change]
 # Unit 1: June 22 Course Introduction and XML (Part 1)
 
 Readings:

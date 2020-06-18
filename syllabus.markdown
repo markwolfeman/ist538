@@ -19,6 +19,11 @@ Instructor, Mark Wolfe
 <br/>Blackboard <a href="https://blackboard.albany.edu/">[link]</a>
 <br/>Ask a Question <a href="https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_140050_1&nav=discussion_board_entry&conf_id=_225257_1&forum_id=_413819_1">[link]</a>
 
+# Textbook
+![XML: Visual QuickStart Guide 2nd Edition](/assets/goldberg.jpg)
+
+***XML: Visual QuickStart Guide*** 2nd Edition by Kevin Howard Goldberg, 2008
+
 # Learning Outcomes
 Upon completion of this course, students will: 
 
