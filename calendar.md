@@ -11,15 +11,16 @@ Readings:
 
 Videos:
 - [Welcome &amp; Meet the Instructor](https://youtu.be/InOOlsl4KCM) [9:01 min.]
-- [Overview of course Part 1]() [ min.]
-- [Overview of course Part 2]() [ min.]     
+- [Overview of course Part 1](https://www.youtube.com/watch?v=KUZr7fY2yPA&t=18s) [21:32 min.]
+- [Overview of course Part 2](https://www.youtube.com/watch?v=0k2VfE8pEVA) [4:34 min.]     
 - [Introduction to XML ](https://youtu.be/-kN-oY3hDyg) [44:58 min.]   
     
 Presentation:    
 - [Introduction to XML](https://www.albany.edu/~mwolfe/ist538/unit1/XML_unit1.pptx) [.pptx]
 
-Exercise:
-- All Class Exercise: Get to know your classmates [link](https://markwolfeman.github.io/ist538/assignments/icebreaker.html)
+Exercise and practice quiz:
+- [Practice Quiz to familiarize you with Blackboard](https://blackboard.albany.edu/webapps/blackboard/content/launchAssessment.jsp?course_id=_140050_1&content_id=_4303034_1&mode=cpview) Due: 6/23
+- [All Class Exercise: Get to know your classmates](https://markwolfeman.github.io/ist538/assignments/icebreaker.html) Due: 6/23
 
 ------------
 # Unit 2: June 24 Introduction and XML (Part 2)
