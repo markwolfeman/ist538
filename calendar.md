@@ -10,7 +10,7 @@ Readings:
 - No readings
 
 Videos:
-- [Welcome &amp; meet the instructor]() [ min.]
+- [Welcome &amp; Meet the Instructor](https://youtu.be/InOOlsl4KCM) [9:01 min.]
 - [Overview of course Part 1]() [ min.]
 - [Overview of course Part 2]() [ min.]     
 - [Introduction to XML ](https://youtu.be/-kN-oY3hDyg) [44:58 min.]   
