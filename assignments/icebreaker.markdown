@@ -8,7 +8,7 @@ permalink:
 
 - Using the forum "Meet Your Classmates" on the Discussion Board, create a thread that gives information about yourself. If you want to post a picture or links related to the questions below, please do.
 
-- Follow the [link to Blackboard discussion board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_140050_1&nav=discussion_board_entry&conf_id=_225257_1&forum_id=_413817_1) to post information about the following: Type favorite color in the thread header.
+- Follow the [link to Blackboard discussion board](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_140050_1&nav=discussion_board_entry&conf_id=_225257_1&forum_id=_422196_1) to post information about the following: Type favorite color in the thread header.
 
 - What is you favorite movie?
 

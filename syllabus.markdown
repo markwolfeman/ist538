@@ -17,7 +17,7 @@ Instructor, Mark Wolfe
 <br/>Login Schedule: Daily, 10am &amp; 5pm
 <br/>Email: <a href="mwolfe@albany.edu">mwolfe@albany.edu</a>
 <br/>Blackboard <a href="https://blackboard.albany.edu/">[link]</a>
-<br/>Ask a Question <a href="https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_140050_1&nav=discussion_board_entry&conf_id=_225257_1&forum_id=_413819_1">[link]</a>
+<br/>Ask a Question <a href="https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_140050_1&nav=discussion_board_entry&conf_id=_225257_1&forum_id=_422195_1">[link]</a>
 
 # Textbook
 ![XML: Visual QuickStart Guide 2nd Edition](/assets/goldberg.jpg)
