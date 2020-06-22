@@ -33,7 +33,7 @@ Readings:
  Videos: 
  
 - [XML Coders Bootcamp](https://youtu.be/b27DeLZvkTo) [12:31 min.] 
-- [Baseball Scorecard Exercise](https://youtu.be/-c9eQLH2_N8) [2:37 min.] 
+- [Baseball Scorecard Exercise](https://youtu.be/-c9eQLH2_N8) [2:37 min.] Box score linked below
 - [XML Fundamentals Part 1](https://youtu.be/ZGuXZf5mu8I) [13:29 min.]
 - [XML Fundamentals Part 2](https://youtu.be/tQnAdGlAeKY) [28:46 min.]
 <!-- - [Homework 1 instructions](https://youtu.be/hYCwJgHU-qs) [8:40 min.] --> 
@@ -58,7 +58,7 @@ Install software, (NotePad++ or XMLSpear) **Due: 6/24**
 
 Group Exercise:
 
-- [Mark up the following](http://www.albany.edu/~mwolfe/ist538/unit2/boxscore.jpg) box score using Notepad++ or XMLSpear **(Due: 6/24)**
+- [Mark up the following box score](http://www.albany.edu/~mwolfe/ist538/unit2/boxscore.jpg) using Notepad++ or XMLSpear **(Due: 6/24)**
 <!-- - [completed box score](http://www.albany.edu/~mwolfe/ist538/lesson1/boxscore.xml)[.xml] -->
 
 ------------
