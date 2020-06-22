@@ -31,35 +31,37 @@ Readings:
 - [Chapter 11](http://www.cafeconleche.org/books/effectivexml/chapters/11.html) in *Effective XML* by Rusty Harold 
  
  Videos: 
-<!-- 
--[XML Coders Bootcamp](https://youtu.be/b27DeLZvkTo) [12:31 min.] 
--[Baseball Scorecard Exercise](https://youtu.be/-c9eQLH2_N8) [2:37 min.] 
--[XML Fundamentals Part 1](https://youtu.be/ZGuXZf5mu8I) [13:29 min.]
--[XML Fundamentals Part 2](https://youtu.be/tQnAdGlAeKY) [28:46 min.]
--[Homework 1 instructions](https://youtu.be/hYCwJgHU-qs) [8:40 min.] 
- -->
+ 
+- [XML Coders Bootcamp](https://youtu.be/b27DeLZvkTo) [12:31 min.] 
+- [Baseball Scorecard Exercise](https://youtu.be/-c9eQLH2_N8) [2:37 min.] 
+- [XML Fundamentals Part 1](https://youtu.be/ZGuXZf5mu8I) [13:29 min.]
+- [XML Fundamentals Part 2](https://youtu.be/tQnAdGlAeKY) [28:46 min.]
+<!-- - [Homework 1 instructions](https://youtu.be/hYCwJgHU-qs) [8:40 min.] --> 
+ 
 
 Presentation:
-<!--
--[XML Bootcamp notes .docx](http://www.albany.edu/~mwolfe/ist538/unit2/unit2_xml_notepad_bootcamp.docx) 
--[XML Fundamentals Parts 1 &amp; 2 notes .docx](http://www.albany.edu/~mwolfe/ist538/unit2/unit2_xml_fundamentals_parts_1_2.docx) -->
+
+- [XML Bootcamp notes .docx](http://www.albany.edu/~mwolfe/ist538/unit2/unit2_xml_notepad_bootcamp.docx) 
+- [XML Fundamentals Parts 1 &amp; 2 notes .docx](http://www.albany.edu/~mwolfe/ist538/unit2/unit2_xml_fundamentals_parts_1_2.docx)
 
 Sample files:
-<!-- 
-	-[folder of examples](http://www.albany.edu/~mwolfe/ist538/unit2/examples/)from presentation, click into linked folder, right click and &quot;save link as&quot; to copy .xml files to desktop   -->
 
+- [folder of examples](http://www.albany.edu/~mwolfe/ist538/unit2/examples/) from presentation, click into linked folder, right click and &quot;save link as&quot; to copy .xml files to desktop 
+
+
+Install software, (NotePadd++ or XMLSpear) **Due: 6/24**
+- [NotePad++ Windows only](https://notepad-plus-plus.org/downloads/)
+- [XMLSpear Windows or Mac](http://www.donkeydevelopment.com/#downloads)
+- [Notepad++ Instructions ](http://www.albany.edu/~mwolfe/ist538/unit2/installing_notetab.docx)[.doc] 
+- [XMLSpear Instuctions ](https://www.albany.edu/~mwolfe/ist538/unit2/installing_xml_spear.docx)[.doc] 
+- [Questions post to XML editor tool discussion thread](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_140050_1&nav=discussion_board_entry&conf_id=_225257_1&forum_id=_422405_1)
 
 Group Exercise:
-<!--
--[Mark up the following](http://www.albany.edu/~mwolfe/ist538/unit2/boxscore.jpg)box score using Notepad++ (due: ???)
--[Baseball game box score](http://www.albany.edu/~mwolfe/ist538/lesson1/boxscore.jpg)[.jpg]
--[completed box score](http://www.albany.edu/~mwolfe/ist538/lesson1/boxscore.xml)[.xml]
--[How to read a box score](http://www.albany.edu/~mwolfe/ist538/lesson1/how_to_read.jpg)[.jpg]
-Install software:
-	-[Windows users, Download and install Notepad++ ](http://www.albany.edu/~mwolfe/ist538/unit2/installing_notetab.docx)[.doc] Due:  ???
-	-[Mac users, Download and install ](http://www.jedit.org/index.php?page=download)
-	-[XML editor tool discussion thread](https://blackboard.albany.edu/webapps/discussionboard/do/forum?action=list_threads&course_id=_124658_1&nav=discussion_board_entry&conf_id=_198030_1&forum_id=_376258_1)  -->
 
+- [Mark up the following](http://www.albany.edu/~mwolfe/ist538/unit2/boxscore.jpg) box score using Notepad++ or XMLSpear **(Due: 6/24)**
+- [Baseball game box score](https://www.albany.edu/~mwolfe/ist538/unit2/boxscore.jpg) [.jpg]
+- [completed box score](http://www.albany.edu/~mwolfe/ist538/lesson1/boxscore.xml)[.xml]
+- [How to read a box score](https://www.albany.edu/~mwolfe/ist538/unit2/boxscore.jpg)[.jpg]
 
 ------------
 # Unit 3: June 26 DTDs (Part 1)
