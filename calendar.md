@@ -59,7 +59,7 @@ Install software, (NotePad++ or XMLSpear) **Due: 6/24**
 Group Exercise:
 
 - [Mark up the following](http://www.albany.edu/~mwolfe/ist538/unit2/boxscore.jpg) box score using Notepad++ or XMLSpear **(Due: 6/24)**
-- [completed box score](http://www.albany.edu/~mwolfe/ist538/lesson1/boxscore.xml)[.xml]
+<!-- - [completed box score](http://www.albany.edu/~mwolfe/ist538/lesson1/boxscore.xml)[.xml] -->
 
 ------------
 # Unit 3: June 26 DTDs (Part 1)
