@@ -33,7 +33,7 @@ Readings:
  Videos: 
  
 - [XML Coders Bootcamp](https://youtu.be/b27DeLZvkTo) [12:31 min.] 
-- [Baseball Scorecard Exercise](https://youtu.be/-c9eQLH2_N8) [2:37 min.] Box score linked below
+- [Baseball Scorecard Group Exercise](https://youtu.be/-c9eQLH2_N8) [2:37 min.] Box score linked below
 - [XML Fundamentals Part 1](https://youtu.be/ZGuXZf5mu8I) [13:29 min.]
 - [XML Fundamentals Part 2](https://youtu.be/tQnAdGlAeKY) [28:46 min.]
 <!-- - [Homework 1 instructions](https://youtu.be/hYCwJgHU-qs) [8:40 min.] --> 
