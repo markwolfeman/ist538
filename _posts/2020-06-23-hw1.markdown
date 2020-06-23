@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Homework 1 relased"
+date:   2020-06-23
+categories: course site
+---
+
+[](https://markwolfeman.github.io/ist538/assignments/homework1.html) 
+
+Hi All,
+
+I've released Homework 1, which is due this Saturday. 
+
+I've created an "Assignments" page at the top of the course site. The Homework assignment will also be found on the calendar.
+
+Just so you know, some of the instructional videos have a slight mis-match between the old site colors and the new ones. 
+
+I've also created a Homework 1 discussion forum. Please feel free to ask and answer questions there. I will chime in too. Please, don't hand out solutions to homeworks wholesale, but code snippets etc. are fine and how we work in the real world. 
+
+-Mark
