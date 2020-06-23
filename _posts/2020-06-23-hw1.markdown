@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Homework 1 relased"
+title:  "Homework 1 released"
 date:   2020-06-23
 categories: course site
 ---
