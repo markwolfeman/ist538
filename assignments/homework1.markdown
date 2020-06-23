@@ -6,6 +6,8 @@ permalink:
 
 <h1> Homework 1</h1>
 
+- [Homework 1 instructions](https://youtu.be/hYCwJgHU-qs) [8:40 min.] 
+
 - I have [copied 3 pages from a Johnny's Seed catalog](https://www.albany.edu/~mwolfe/ist538/homework/hw1/catalog.pdf). On page 104, mark up in XML item numbers: 2412, 2513, 2671, and 2087 into a well formed XML document. No XML errors are allowed. Consider the rules for writing XML as explained in the readings. Use at least 2 attributes in each of your four tomato seed listings.
 
 Notes about the assignment:
@@ -15,4 +17,4 @@ Notes about the assignment:
 - There are many ways to mark up the information, though there are certain approaches that are more logical than others.
 - All questions regarding homeworks should be submitted to the appropriate discussion forum.
 - This assignment is worth 10 points.
-- **Due Saturday June 28** 
+- **Due Saturday June 27** 
