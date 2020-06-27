@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Unit 3 Exercise"
+date:   2020-06-27
+categories: course site
+---
+
+I've released Unit 3, which delves into the topic of DTDs. The technology is relatively easy to code, but the debugging and validating can be tricky.
+
+For the exercise, be sure to use the validators, and try to do the project piece by piece. Work in groups or work alone. Do the readings, videos, and take a look at the online validators before proceeding to the exercise. [https://markwolfeman.github.io/ist538/assignments/dtdexercise.html](https://markwolfeman.github.io/ist538/assignments/dtdexercise.html)
+
+**Due on Monday, 6/29.**
+
+Collaborate on the "Unit 3 exercise discussion" board, when finished please post a "completed" version of it. Each of you need to post your completed version. 
+
+Have a great weekend!
+
