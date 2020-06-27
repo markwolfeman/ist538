@@ -36,7 +36,7 @@ Readings:
 - [Baseball Scorecard Group Exercise](https://youtu.be/-c9eQLH2_N8) [2:37 min.] Box score linked below
 - [XML Fundamentals Part 1](https://youtu.be/ZGuXZf5mu8I) [13:29 min.]
 - [XML Fundamentals Part 2](https://youtu.be/tQnAdGlAeKY) [28:46 min.]
-[Homework 1 instructions](https://youtu.be/hYCwJgHU-qs) [8:40 min.] 
+- [Homework 1 instructions](https://youtu.be/hYCwJgHU-qs) [8:40 min.] 
  
 
 Presentation:
@@ -69,13 +69,27 @@ Group Exercise:
 ------------
 # Unit 3: June 26 DTDs (Part 1)
 
-Readings
+Readings:
 
-Videos
+- Chapter 6 (Goldberg)
+- Well-formedness/syntax checker [w3schools.com](https://www.w3schools.com/xml/xml_validator.asp)
 
-Presentation
+Validation services (must use internal or &quot;embedded DTD&quot;, see p. 106 in Goldberg):
+-  [XMLvalidation.com:](http://www.xmlvalidation.com/?L=0) Paste in or upload DTD and XML documents
+-  [XML Validator Online:](http://xmlvalidator.new-studio.org) DTD and Schema validation service
+-  [W3C Validation Service](http://validator.w3.org/#validate_by_input) Validate Direct Input
 
-Exercise
+Videos:
+- [Introduction to DTDs](https://youtu.be/VqFYDlSFifg) [18:32 min.]
+- [DTD Fundamentals Part 1](https://www.youtube.com/watch?v=918To67ybcc) [36:27 min.] 
+- [DTD Fundamentals Part 2](https://www.youtube.com/watch?v=XrGSA5ZKOo8) [14:11 min.]
+- [DTD Unit 3 Exercise Instructions](https://youtu.be/9YArds_0dLE) [8:42 min.] 
+
+Presentation:
+- [DTD Fundamentals](http://www.albany.edu/~mwolfe/ist538/unit3/Introduction%20to%20DTDs.pptx) [.pptx]
+
+Exercise:
+- Complete this [exercise](https://markwolfeman.github.io/ist538/assignments/dtdexercise.html) as a group or on your own. **Due 6/29**
 
 ------------
 # Unit 4: June 29 DTD's (Part 2)
