@@ -18,4 +18,4 @@ Notes about the assignment:
 - All questions regarding homeworks should be submitted to the appropriate discussion forum.
 - This assignment is worth 10 points.
 - When complete, email me your assignment as an attachment and be sure to write "IST538 HW1" in the subject heading, and send it as a zip file.
-- **Due Saturday June 27** 
+- **Due Saturday June 28** 
