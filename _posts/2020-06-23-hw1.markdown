@@ -9,7 +9,7 @@ categories: course site
 
 Hi All,
 
-I've released Homework 1, which is due this Saturday. 
+I've released Homework 1, which is due this Sunday. 
 
 I've created an "Assignments" page at the top of the course site. The Homework assignment will also be found on the calendar.
 

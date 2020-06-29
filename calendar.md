@@ -94,13 +94,23 @@ Exercise:
 ------------
 # Unit 4: June 29 DTD's (Part 2)
 
-Readings
+Readings:
 
-Videos
+- Chapter 7 & 8 (Goldberg)
+- [Mulberry Technologies,"XML Syntax Quick Reference"](http://www.mulberrytech.com/quickref/XMLquickref.pdf)
 
-Presentation
+Videos:
 
-Exercise
+- [DTD General Internal Entities](https://www.youtube.com/watch?v=sAV9iMcB5ag) [8:39 min.]
+- [DTD General External Entities](https://www.youtube.com/watch?v=gnklKY_0lx0) [5:42 min.]  
+- [DTD Parameter Internal  Entities](https://www.youtube.com/watch?v=0LqkNIWlKtA) [4:03 min.]
+    <!-- - [Homework 2 Instructions ]https://youtu.be/aa37GLCmwdc"> </a> [2:55 min.]-->
+
+Sample files used in videos &amp; notes:&nbsp;&nbsp;:
+       
+- [Textbook examples](http://www.albany.edu/~mwolfe/ist538/unit4/)[directory of files]
+- [Unit 4 Notes](http://www.albany.edu/~mwolfe/ist538/unit4/unit4_notes.docx) [.docx]
+
 
 ------------
 # Unit 5:  July 1 Schema (Part 1)
