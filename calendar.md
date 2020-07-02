@@ -118,7 +118,7 @@ Sample files used in videos &amp; notes:&nbsp;&nbsp;:
 Readings:
 
 - Chapter 9 &amp; 10 (Goldberg)
-- [Online XML Schema Validator](http://www.corefiling.com/opensource/schemaValidate.html) [3:33 min.]
+- [Online XML Schema Validator](http://www.corefiling.com/opensource/schemaValidate.html)
 
 Videos:
 
