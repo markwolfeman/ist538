@@ -4,6 +4,8 @@ title:
 permalink:
 ---
 
+- [Homework 2 Instructions ](https://youtu.be/aa37GLCmwdc) [2:55 min.]
+
 <h1> Homework 2</h1>
 
 You  have been hired by _Johnny&rsquo;s Seed Company_ to create a DTD that will help them gain better control over its [catalog  information](http://www.albany.edu/~mwolfe/ist538/homework/hw2/catalog.pdf).  Create a DTD with the following bulleted constraints and functionality. You will validate your DTD against a downloaded version of [tomato.xml](http://www.albany.edu/~mwolfe/ist538/homework/hw2/tomato.xml) (right click-&gt;&quot;save link as&quot;). The DTD must be defined outside of the XML document, though for troubleshooting purposes, you may want to create it internally to use with online validators (p.106).
