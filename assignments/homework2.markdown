@@ -25,9 +25,9 @@ Define  all of the elements and attributes as found in the xml document, and mak
 - Note, you should create your external general entity <u>last</u> if you are using an internal DTD for debugging pursoses. The online validators will not be able to call the <a href="http://www.albany.edu/~mwolfe/ist538/homework/hw2/details.ent">details.ent</a> file. 
 - You can only validate external entities using Notepad++'s validator or XMLSpear.
 
-
+- [Homework 2 Instructions ](https://youtu.be/aa37GLCmwdc) [2:55 min.]
 - Your assignment must validate.
 - It is worth 10 points
 - Email me as an attachment the .xml, .dtd, and .ent documents as one compressed .zip file. 
-- **Submit by Saturday, July 4th** (Sooner is better, because Unit 5 will be released soon)
+- **Submit by Saturday, July 4th** (Sooner is better, because Unit 5 is on the way)
 

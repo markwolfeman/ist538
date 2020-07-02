@@ -104,7 +104,7 @@ Videos:
 - [DTD General Internal Entities](https://www.youtube.com/watch?v=sAV9iMcB5ag) [8:39 min.]
 - [DTD General External Entities](https://www.youtube.com/watch?v=gnklKY_0lx0) [5:42 min.]  
 - [DTD Parameter Internal  Entities](https://www.youtube.com/watch?v=0LqkNIWlKtA) [4:03 min.]
-    <!-- - [Homework 2 Instructions ]https://youtu.be/aa37GLCmwdc"> </a> [2:55 min.]-->
+- [Homework 2 Instructions ](https://youtu.be/aa37GLCmwdc) [2:55 min.]
 
 Sample files used in videos &amp; notes:&nbsp;&nbsp;:
        
@@ -115,13 +115,32 @@ Sample files used in videos &amp; notes:&nbsp;&nbsp;:
 ------------
 # Unit 5:  July 1 Schema (Part 1)
 
-Readings
+Readings:
 
-Videos
+- Chapter 9 &amp; 10 (Goldberg)
+- [Online XML Schema Validator](http://www.corefiling.com/opensource/schemaValidate.html) [3:33 min.]
 
-Presentation
+Videos:
 
-Exercise
+- [XML Schema Part 1 (introduction)](https://www.youtube.com/watch?v=pef6vuyWIig) [3:33 min.] 
+- [XML Schema Part 2 (simple types)](https://www.youtube.com/watch?v=Rkawa18dkhk) [5:41min.] 
+- [ XML Schema Part 3 (connecting to .xsd)](https://www.youtube.com/watch?v=xfud1QuxXNI) [3:18 min.]
+- [ XML Schema Part 4 (data types, fixed &amp; default)](https://www.youtube.com/watch?v=HqLAP-SVseI) [5:49 min.]
+- [XML Schema Part 5 (custom simple type)](https://www.youtube.com/watch?v=j6j3So2-ByQ) [3:54 min.] 
+- [ XML Schema Part 6 (named custom types)](https://www.youtube.com/watch?v=RqYMmOSfWyg) [5:11 min.] 
+- [Group Exercise instructions](https://youtu.be/8Pl6zIWJ2IA) [4:31 min.] 
+
+Sample files:
+
+- [employee.xml](http://www.albany.edu/~mwolfe/ist538/unit5/employee.xml)
+- [directory.xsd](http://www.albany.edu/~mwolfe/ist538/unit5/directory.xsd) 
+- [XML Schema Lecture notes](http://www.albany.edu/~mwolfe/ist538/unit5/unit5_lecture_notes.docx) and 
+- [examples](http://www.albany.edu/~mwolfe/ist538/unit5/unit5_examples.docx) 
+
+Presentation:
+
+Exercise:
+- [Group XMLSchema Exercise](http://www.albany.edu/~mwolfe/ist538/unit5/unit5_exercise.docx) 
         
 ------------
 # Unit 6:     July 3 Schema (Part 2)
