@@ -138,10 +138,10 @@ Sample files:
 
 Presentation:
 
-- [XML Schema Lecture notes](http://www.albany.edu/~mwolfe/ist538/unit5/unit5_lecture_notes.docx)
+- [XML Schema Lecture notes](https://www.albany.edu/~mwolfe/ist538/unit5/unit5_lecture_notes.docx)
 
 Exercise:
-- [Group XMLSchema Exercise](http://www.albany.edu/~mwolfe/ist538/unit5/unit5_exercise.docx) 
+- [Group XMLSchema Exercise]() 
         
 ------------
 # Unit 6:     July 3 Schema (Part 2)
