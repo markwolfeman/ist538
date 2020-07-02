@@ -134,10 +134,11 @@ Sample files:
 
 - [employee.xml](http://www.albany.edu/~mwolfe/ist538/unit5/employee.xml)
 - [directory.xsd](http://www.albany.edu/~mwolfe/ist538/unit5/directory.xsd) 
-- [XML Schema Lecture notes](http://www.albany.edu/~mwolfe/ist538/unit5/unit5_lecture_notes.docx) and 
 - [examples](http://www.albany.edu/~mwolfe/ist538/unit5/unit5_examples.docx) 
 
 Presentation:
+
+- [XML Schema Lecture notes](http://www.albany.edu/~mwolfe/ist538/unit5/unit5_lecture_notes.docx)
 
 Exercise:
 - [Group XMLSchema Exercise](http://www.albany.edu/~mwolfe/ist538/unit5/unit5_exercise.docx) 
