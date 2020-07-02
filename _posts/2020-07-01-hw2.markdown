@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Homework 2 released"
+date:   2020-07-01
+categories: course site
+---
+
+
+
+I've posted Unit 5 and Homework 2.
+
+[Homework 2 is here.](https://markwolfeman.github.io/ist538/assignments/homework2.html)
+
+It's due this Saturday 7/4, but I would try to complete it sooner, because you've got an exercise using XMLSchema that I will release tomorrow.
+
+Unit 5 is all about XML Schema, which is totally different from DTD's, so I would focus on Homework 2 first, and then proceed to Unit 5. 
