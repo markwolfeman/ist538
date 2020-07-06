@@ -141,7 +141,7 @@ Presentation:
 - [XML Schema Lecture notes](https://www.albany.edu/~mwolfe/ist538/unit5/unit5_lecture_notes.docx)
 
 Exercise:
-- [Group XMLSchema Exercise](https://www.albany.edu/~mwolfe/ist538/unit5/unit5_exercise.docx) 
+- [Group XMLSchema Exercise](https://www.albany.edu/~mwolfe/ist538/unit5/unit5_exercise.docx) (due: 7/7)
         
 ------------
 # Unit 6:     July 3 Schema (Part 2)
