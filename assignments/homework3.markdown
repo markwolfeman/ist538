@@ -12,7 +12,7 @@ Create an XML Schema that validates: [http://www.albany.edu/~mwolfe/ist538/homew
 
 In your XML Schema file, do the following to set up your <span style="font-family:Courier">hw3.xml</span> file to enforce correct data entry into the XML document. You must update the <span style="font-family:Courier">hw3.xml</span> document in various places so that it conforms to the rules as defined below. Unless noted, set elements to <span style="font-family:Courier">string</span> data.
 
-1. Set your <span style="font-family:Courier">.xsd</span> file up. Start by defining your *root element* <span style="font-family:Courier">directory</span>, and inside it, define the <span style="font-family:Courier">employee</span> element using a *complex type* setup. <span style="font-family:Courier">employee</span> must reference the *named complex type* “employeeType” (p 142-143). Partial code: 
+1. Set your <span style="font-family:Courier">.xsd</span> file up. Start by defining your *root element* <span style="font-family:Courier">directory</span>, and inside it, define the <span style="font-family:Courier">employee</span> element using a *complex type* setup. <span style="font-family:Courier">employee</span> must reference the *named complex type* “employeeType” (p 142-143). Started [hw3_shell.xsd](http://www.albany.edu/~mwolfe/ist538/homework/hw3/hw3_shell.xml) or partial code: 
 
 ```
 	<span style="font-family:Courier"><?xml version="1.0"?>
