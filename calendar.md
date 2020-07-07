@@ -146,13 +146,27 @@ Exercise:
 ------------
 # Unit 6:     July 3 Schema (Part 2)
 
-Readings
+Readings:
 
-Videos
+- Chapter 11 (Goldberg) 
 
-Presentation
+Videos:
 
-Exercise
+- [XML Schema:  Complex Types (Overview)](https://www.youtube.com/watch?v=c9bhRe1ZQ5M)[7:22 min.] 
+- [ XML Schema: Complex Types (Anonymous Named Sequence)](https://www.youtube.com/watch?v=ct_Y9U4fT1A) [5:41min.]
+- [XML Schema:  ** Homework 3 Spoiler ** ](https://www.youtube.com/watch?v=kx5Nq29ifSg) [1:41min.]
+- [XML Schema: Complex Types (text only & mixed content](https://youtu.be/LA9KWGvU-uc)[0:00min.] 
+- [XMLSchema Complex Types (Multiple Named Types with Sequences) ](https://youtu.be/a2JL-j-QeTM)  [2:34min.] 
+- [XML Schema: Complex Types (Attributes) ](https://www.youtube.com/watch?v=Yg2jGIDgzWU) [3:17min.] 
+- [Homework 3 ](https://youtu.be/cvKim-YiMmQ)[7:27min.]
+
+Sample files Notes and code used in videos: [right-click and save to desktop] 
+
+- [xml_schema_lesson6.xml](http://www.albany.edu/~mwolfe/ist538//unit6/xml_schema_lesson6.xml)
+- [Notes 1](https://www.albany.edu/~mwolfe/ist538/unit6/xml_schema_lesson6.pdf)
+- [Notes 2](https://www.albany.edu/~mwolfe/ist538/unit6/schema_cont_notes_lesson6.pdf)
+      
+
 
 ------------
 # Unit 7:   July 6  XSLT
@@ -166,7 +180,7 @@ Presentation
 Exercise
           
 ------------
-# Unit 8:    July 8 Test
+# Unit 8:    July 10 Test
 
 Readings
 
@@ -177,7 +191,7 @@ Presentation
 Exercise        
 
 ------------
-# Unit 9:    July 10 XPath
+# Unit 9:    July 13 XPath
 
 Readings
 
@@ -188,7 +202,7 @@ Presentation
 Exercise   
 
 ------------
-# Unit 10: July 13 CSS and XML
+# Unit 10: July 15 CSS and XML
 
 Readings
 
@@ -199,7 +213,7 @@ Presentation
 Exercise  
 
 ------------
-# Unit 11:  July 15 SVG
+# Unit 11:  July 17 SVG
 
 Readings
 
@@ -210,7 +224,7 @@ Presentation
 Exercise  
 
 ------------
-# Unit 12:     July 17 XQuery
+# Unit 12:     July 20 XQuery
 
 Readings
 
