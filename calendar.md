@@ -171,33 +171,70 @@ Sample files Notes and code used in videos: [right-click and save to desktop]
 ------------
 # Unit 7:   July 6  XSLT
 
-Readings
+Readings:
 
-Videos
+- Chapter 2 (Goldberg)
 
-Presentation
+Videos:
 
-Exercise
-          
+- [Presentation 1 of 4](https://www.youtube.com/watch?v=PcOGUHYNEnA) [6:13]
+- [Presentation 2 of 4](https://www.youtube.com/watch?v=s15dOPJ-xvk) [7:16]
+- [Presentation 3 of 4](https://www.youtube.com/watch?v=sTohMaPupGs) [7:04] 
+- [Presentation 4 of 4](https://www.youtube.com/watch?v=cOuxnVl7W0c) [15:41] 
+
+Code Example Videos: 
+     
+- [XSLT Code Basic](https://youtu.be/hYdUT2cp5fg) [9:07]
+- [XSLT Code Table ](https://www.youtube.com/watch?v=BUuZVjuImbM) [9:20]
+- [XSLT Code Sort](https://www.youtube.com/watch?v=8SBEBgGNWdg) [6:58]
+- [XSLT Code If](https://www.youtube.com/watch?v=-0HxG23ihJ0) [4:28]
+      
+
+- [XSLT Group Exercise](https://www.youtube.com/watch?v=dBb3voWC7wU) Note: we're in Unit 7, even though video says "8"
+
+
+Presentation:
+
+- [Introduction to XSLT](http://www.albany.edu/~mwolfe/ist538/unit7/unit7.pptx) [.pptx]
+- [Download examples of XSLT](http://www.albany.edu/~mwolfe/ist538/unit7/code_examples/)
+
+Exercise:
+
+- Create an .xsl file following [these directions:](http://www.albany.edu/~mwolfe/ist538/unit7/unit7_XSLT_exercise.docx) [.doc]. It should render information from the following [full_directory.xml](http://www.albany.edu/~mwolfe/ist538/unit7/full_directory.xml) file. Remember to right-click on the link ( &quot;save link as&quot;) and save it to your hard drive. The .xsl file should render your .xml [file to look like this full_directory.html](https://www.albany.edu/~mwolfe/ist538/unit7/full_directory.html) file. 
+**Due: 7/13** 
+        
 ------------
-# Unit 8:    July 10 Test
 
-Readings
-
-Videos
-
-Presentation
-
-Exercise        
+# Unit 8:  Test (To be announced)
 
 ------------
 # Unit 9:    July 13 XPath
 
-Readings
+Readings:
 
-Videos
+- Chapter 3 &amp; 4 (Goldberg) 
 
-Presentation
+Videos:
+
+- [Presentation 1](https://www.youtube.com/watch?v=_ssBdV1UVBY) [5:22]
+- [Presentation 2](https://www.youtube.com/watch?v=SnprCpommcA) [3:27]
+- [Presentation 3](https://www.youtube.com/watch?v=_VrZJox4UdA) [5:19]
+- [Presentation 4](https://www.youtube.com/watch?v=i18zH7YQAdg) [4:29]
+- [Presentation 5](https://www.youtube.com/watch?v=3e4m8u0TLVA) [6:20]
+- [Presentation 6](https://www.youtube.com/watch?v=JPM23U_qgsk) [8:20]
+
+- Code Example Videos: &nbsp;&nbsp; 
+  
+- 	[Example 1 Templates](https://youtu.be/HTS6gGkfqIs) [4:55]
+- 	[Example 2 Math a](https://youtu.be/SadbZkiLJao) [6:28] 
+- 	[Example 2 Math b](https://youtu.be/pkvxZrPV9BU) [3:25]
+- 	[Example 3 Count](https://youtu.be/L4V5GPPgkdY) [5:49]
+- 	[Example 4 Format number](https://youtu.be/SwDec9tiQVo) [2:51]
+
+Presentation:
+
+- [Introduction to XPath](http://www.albany.edu/~mwolfe/ist538/unit9/unit9_xpath.pptx)
+- [Download examples of XPath](http://www.albany.edu/~mwolfe/ist538/unit9/examples/)
 
 Exercise   
 
