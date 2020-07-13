@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Test 1 available / Must be taken by Wednesday 11:59pm
+title:  Unit 7 and Test 1 information
 date:   2020-07-12
 categories: Test 1
 ---
