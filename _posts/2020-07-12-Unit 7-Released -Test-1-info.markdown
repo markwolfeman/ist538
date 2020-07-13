@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Test 1 available / Must be taken by Wednesday 11:59pm
-date:   2020-07-13
+date:   2020-07-12
 categories: Test 1
 ---
 
