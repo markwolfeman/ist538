@@ -205,7 +205,7 @@ Exercise:
         
 ------------
 
-# Unit 8:  Test Due Wednesday, July 15th 
+# Unit 8:  Test 1  (Due Wednesday, July 15th)
 
 ------------
 # Unit 9:    July 13 XPath
