@@ -264,7 +264,7 @@ Presentation
 
 Exercise  (**Due Saturday July 18th**)
 
-- [Following these instructions to add CSS to an XSL file](https://markwolfeman.github.io/ist538/assignments/dtdexercise.html), and your output should [look something vaguely like this.](http://www.albany.edu/~mwolfe/ist538/unit10/exercise/css_exercise.jpg)
+- [Following these instructions to add CSS to an XSL file](https://markwolfeman.github.io/ist538/assignments/cssexercise.html), and your output should [look something vaguely like this.](http://www.albany.edu/~mwolfe/ist538/unit10/exercise/css_exercise.jpg)
 - Files needed for exercise, for both files, right-click, "save to desktop": 
 	- [.xml file](http://www.albany.edu/~mwolfe/ist538/unit10/exercise/directory.xml)
 	- [.xsl file](http://www.albany.edu/~mwolfe/ist538/unit10/exercise/directory_style.xsl)
