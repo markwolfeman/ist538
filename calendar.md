@@ -243,11 +243,31 @@ Exercise
 
 Readings
 
+- Read and work through CSS modules on W3Schools site. Do modules &quot;CSS Home&quot; through &quot;CSS Tables.&quot;)
+
+ - [W3Schools.com CSS Tutorial](http://www.w3schools.com/css/default.asp)
+- [Firefox Page Inspector](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector) and
+- [Google Chrome Page Inspector](https://developer.chrome.com/devtools/docs/dom-and-styles#introduction">Inspect Element Tool)
+- [Look at CSS using the](http://www.albany.edu/~mwolfe/ist538/unit10/firefox_inspector.JPG" 
+target="_blank"> Inspector Tool on Firefox or Chrome.)
+
 Videos
+
+- [CSS Presentation 1 of 3](https://youtu.be/SLRagQrEItA) [6:36]
+- [CSS Presentation 2 of 3](https://youtu.be/QWbbNi048aw)  [4:26]
+- [CSS Presentation 3 of 3](https://youtu.be/bzGy3-_h9uo) [8:19]
+- [Exercise](https://youtu.be/BmpNto_e-VU) [9:44] 
 
 Presentation
 
+- [Introduction to CSS](http://www.albany.edu/~mwolfe/ist538/unit10/Introduction%20to%20CSS.pptx) [.pptx] 
+
 Exercise  
+
+- [Following these instructions to add CSS to an XSL file](https://www.albany.edu/~mwolfe/ist538/unit10/exercise/css_exercise.html), and your output should [look something vaguely like this.](http://www.albany.edu/~mwolfe/ist538/unit10/exercise/css_exercise.jpg)
+- Files needed for exercise, for both files, right-click, "save to desktop": 
+	- [.xml file](http://www.albany.edu/~mwolfe/ist538/unit10/exercise/directory.xml)
+	- [.xsl file](http://www.albany.edu/~mwolfe/ist538/unit10/exercise/directory_style.xsl)
 
 ------------
 # Unit 11:  July 17 SVG
