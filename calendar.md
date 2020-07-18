@@ -274,12 +274,20 @@ Exercise  (**Due Saturday July 18th**)
 
 Readings
 
+- none
+
 Videos
+
+- none
 
 Presentation
 
+- none
+
 Exercise  
 
+- Complete the W3Schools <a href="https://www.w3schools.com/graphics/svg_intro.asp">SVG tutorial.Read and work through SVG examples from "SVG Home" through "SVG Drop Shadows". **Due Monday, July 20th**  Nothing to submit, just complete exercise.
+	
 ------------
 # Unit 12:     July 20 XQuery
 
