@@ -286,7 +286,7 @@ Presentation
 
 Exercise  
 
-- Complete the W3Schools [SVG tutorial.Read and work through SVG examples from "SVG Home" through "SVG Drop Shadows". (https://www.w3schools.com/graphics/svg_intro.asp) **Due Monday, July 20th**  Nothing to submit, just complete exercise.
+- Complete the W3Schools [SVG tutorial.Read and work through SVG examples from "SVG Home" through "SVG Drop Shadows"](https://www.w3schools.com/graphics/svg_intro.asp) **Due Monday, July 20th**  Nothing to submit, just complete exercise.
 
 ------------
 # Unit 12:     July 20 XQuery
