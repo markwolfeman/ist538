@@ -248,8 +248,7 @@ Readings
  - [W3Schools.com CSS Tutorial](http://www.w3schools.com/css/default.asp)
 - [Firefox Page Inspector](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector) and
 - [Google Chrome Page Inspector](https://developer.chrome.com/devtools/docs/dom-and-styles#introduction">Inspect Element Tool)
-- [Look at CSS using the](http://www.albany.edu/~mwolfe/ist538/unit10/firefox_inspector.JPG" 
-target="_blank"> Inspector Tool on Firefox or Chrome.)
+- [Look at CSS using the](http://www.albany.edu/~mwolfe/ist538/unit10/firefox_inspector.JPG) [Inspector Tool on Firefox or Chrome.]
 
 Videos
 
@@ -291,13 +290,38 @@ Exercise
 ------------
 # Unit 12:     July 20 XQuery
 
-Readings
+Readings:
 
-Videos
+- Chapter 16 (Goldberg)
 
-Presentation
+Videos:
 
-Exercise  
+- [Complete the entire W3Schools XQuery tutorial](https://www.w3schools.com/xml/xquery_intro.asp)
+- [Presentation 1 of 4](https://www.youtube.com/watch?v=cdjoo0bY08g) [6:18]
+- [Presentation 2 of 4](https://youtu.be/EhLnt5buw70) [6:00]
+- [Presentation 3 of 4](https://youtu.be/Cxb04gwFdbQ) [3:47]
+- [Presentation 4 of 4](https://youtu.be/pZbN21Q8Ug0) [11:24]
+
+Examples videos:
+  
+- [Intro to BaseX](https://youtu.be/T9WxIXH3o1U) [5:36]
+- [Example test.xq](https://www.youtube.com/watch?v=Szb_dB8s46Y) [8:33] 
+- [Example test2.xq](https://youtu.be/CD22-l7f-do) [1:22]  
+- [Example test3.xq](https://www.youtube.com/watch?v=xfvM-CmM3xQ) [1:44]
+- [Example test4.xq](https://www.youtube.com/watch?v=X5KaWmEP_4o) [2:09]
+- [Example test5a.xq](https://www.youtube.com/watch?v=MfeOOBQWMUA)[5:18]
+- [Example test6a.xq  Part 1](https://www.youtube.com/watch?v=U4HiCI0j_PQ) [4:52]
+- [Example test6a.xq  Part 2](https://www.youtube.com/watch?v=2Jjt2THJ43o) [5:49]
+   
+Presentation:
+ 
+
+
+- [Introduction to XQuery](href="http://www.albany.edu/~mwolfe/ist538/unit12/Using%20XML%20data%20with%20XQuery.pptx) [.pptx]
+- [Download examples](http://www.albany.edu/~mwolfe/ist538/unit12/xquery_code_examples.zip"> of XQuery.zip) [right-click "save as"] 
+
+- Exercise: coming soon
+
 
 ------------
 # Unit 13:    July 22  Namespaces
