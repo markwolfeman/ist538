@@ -321,8 +321,8 @@ Presentation:
  
 
 
-- [Introduction to XQuery](href="http://www.albany.edu/~mwolfe/ist538/unit12/Using%20XML%20data%20with%20XQuery.pptx) [.pptx]
-- [Download examples](http://www.albany.edu/~mwolfe/ist538/unit12/xquery_code_examples.zip"> of XQuery.zip) [right-click "save as"] 
+- [Introduction to XQuery](http://www.albany.edu/~mwolfe/ist538/unit12/Using%20XML%20data%20with%20XQuery.pptx) [.pptx]
+- [Download examples of XQuery.zip](http://www.albany.edu/~mwolfe/ist538/unit12/xquery_code_examples.zip)  [right-click "save as"] 
 
 - Exercise: coming soon
 
