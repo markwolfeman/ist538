@@ -238,6 +238,8 @@ Presentation:
 
 Exercise 
 
+- no exercise --> do [Homework 4 due on Wednesday](https://markwolfeman.github.io/ist538/assignments/homework4.html) 
+
 
 
 ------------
