@@ -4,7 +4,8 @@ title:
 permalink:
 ---
 
-- [Homework 4 Instructions ]() [ min.]
+- [Homework 4 Video Instruction](https://youtu.be/7ZBAgPQj7aQ) [2:00]
+
 
 <h1> Homework 4</h1>
 
