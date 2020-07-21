@@ -8,7 +8,7 @@ permalink:
 
 <h1> Homework 4</h1>
 
-Navigate to [this directory](http://www.albany.edu/~mwolfe/ist538/homework/hw4/">http://www.albany.edu/~mwolfe/ist538/homework/hw4/) [and save the file **sales_directory.xml**]  and style it into HTML using XSLT and XPath. Follow the guidelines below to  complete the assignment. Set up your style sheet in a similar manner as the Unit  7 XSLT group exercise. I have linked what the output file should look like here [http://www.albany.edu/~mwolfe/ist538/homework/hw4/sales_directory.html](http://www.albany.edu/~mwolfe/ist538/homework/hw4/sales_directory.html).
+Navigate to [this directory](http://www.albany.edu/~mwolfe/ist538/homework/hw4/) [and save the file **sales_directory.xml**]  and style it into HTML using XSLT and XPath. Follow the guidelines below to  complete the assignment. Set up your style sheet in a similar manner as the Unit  7 XSLT group exercise. I have linked what the output file should look like here [http://www.albany.edu/~mwolfe/ist538/homework/hw4/sales_directory.html](http://www.albany.edu/~mwolfe/ist538/homework/hw4/sales_directory.html).
 
 Part 1: **Make Tables (5 points)**
 

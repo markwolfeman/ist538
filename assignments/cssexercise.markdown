@@ -9,6 +9,7 @@ permalink:
 - Download the .xsl file and the .xml file and create a new  .css file. They all need to &ldquo;live&rdquo; in the same folder. Take the XSL file and  remove all of the HTML styling and replace it with CSS styling. You are going  to create a separate CSS file that will be referenced by your .xsl file. Make these visual enhancements using CSS, but you will also have to update your  .xsl file in places where <span style="font-family:Courier">class</span> and <span style="font-family:Courier">id</span> selectors are used. Create comments for  all of your CSS statements. In order to test your CSS, you will &ldquo;run&rdquo; the file  from  your .xml file.</p>
 
 - You need to set up your .xsl file to link out to an external .css file.</li>
+
 <span style="font-family:Courier">table</span>
 
 - Define the <span style="font-family:Courier">border width (900px)</span> and <span style="font-family:Courier">height (100px)</span>
