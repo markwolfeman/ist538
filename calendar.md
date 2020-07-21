@@ -238,7 +238,7 @@ Presentation:
 
 Exercise 
 
-- [Create an .xsl file following these directions](http://www.albany.edu/~mwolfe/ist538/unit7/unit7_XSLT_exercise.docx) It should render information from the [following full_directory.xml file.](http://www.albany.edu/~mwolfe/ist538/unit7/full_directory.xml) Remember to right-click on the link ("save link as") and save it to your hard drive. The .xsl file should render your .xml file to look like [this full_directory.html file.](https://www.albany.edu/~mwolfe/ist538/unit7/full_directory.html) **Due: 7/23**  
+
 
 ------------
 # Unit 10: July 15 CSS and XML
