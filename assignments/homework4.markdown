@@ -28,6 +28,6 @@ Part 2: **Print out totals (5 points)**
 - number of Overseas employees using <span style="font-family:Courier">count()</span>
 - number  of Washington State employees using <span style="font-family:Courier">count() 
  
-- Assignment  is worth 10 points. **Due: Wednesday, July 23rd**
+- Assignment  is worth 10 points. **Due: Thurssday, July 24th**
 - Zip your .XSL  and .XML files and email it to me.
 - Be sure they  are in one folder. I should only receive _one .zip file_.

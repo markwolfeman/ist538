@@ -238,7 +238,7 @@ Presentation:
 
 Exercise 
 
-- no exercise --> do [Homework 4 due on Wednesday](https://markwolfeman.github.io/ist538/assignments/homework4.html) 
+- no exercise --> do [Homework 4 due on Thursday](https://markwolfeman.github.io/ist538/assignments/homework4.html) 
 
 
 
@@ -293,7 +293,7 @@ Exercise
 
 ------------
 
-# Unit 12:     July 20 XQuery
+	# Unit 12:     July 20 XQuery
 
 Readings:
 
