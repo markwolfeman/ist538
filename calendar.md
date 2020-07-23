@@ -336,11 +336,20 @@ Exercise:
 
 Readings
 
+- Chapter 12 & 13 (Goldberg)
+
 Videos
+
+- [Introduction to Namespaces](http://www.youtube.com/watch?v=SL1hgIIvpAs) [5:53]
+- [Review of XML](https://www.youtube.com/watch?v=UrqI5hpiL8Y) [11:06]
 
 Presentation
 
-Exercise  
+- none
+
+Exercise
+
+- none  
 
 ------------
 # Unit 14:   July 24   Final Project Open Lab & Test Review
