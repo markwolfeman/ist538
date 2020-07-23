@@ -341,7 +341,9 @@ Readings
 Videos
 
 - [Introduction to Namespaces](http://www.youtube.com/watch?v=SL1hgIIvpAs) [5:53]
+	- Inventive video by Bob Boiko from the University of Washington. He does almost all of his videos outside. 
 - [Review of XML](https://www.youtube.com/watch?v=UrqI5hpiL8Y) [11:06]
+	- Another video by Bob that sorta wraps up a lot of what we've learned the "Why learn XML"
 
 Presentation
 
