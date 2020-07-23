@@ -293,7 +293,7 @@ Exercise
 
 ------------
 
-	# Unit 12:     July 20 XQuery
+# Unit 12:     July 20 XQuery
 
 Readings:
 
@@ -325,7 +325,10 @@ Presentation:
 - [Introduction to XQuery](http://www.albany.edu/~mwolfe/ist538/unit12/Using%20XML%20data%20with%20XQuery.pptx) [.pptx]
 - [Download examples of XQuery.zip](http://www.albany.edu/~mwolfe/ist538/unit12/xquery_code_examples.zip)  [right-click "save as"] 
 
-- Exercise: coming soon
+Exercise: 
+
+- [Complete this brief exercise](https://markwolfeman.github.io/ist538/assignments/xqueryexercise.html). You will query this <a href="http://www.albany.edu/~mwolfe/ist538/unit12/american.xml">american.xml file</a>
+- Due: **Saturday, July 25th.**
 
 
 ------------
