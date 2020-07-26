@@ -7,6 +7,8 @@ permalink:
 
 Make some updates to example test2 using BaseX
 
+[Download BaseX](https://basex.org/)
+
 - query this [American league .xml file](http://www.albany.edu/~mwolfe/ist538/unit12/american.xml)
 	- Let $qualify equal  35
 	- Where $person/HR >=$qualify
