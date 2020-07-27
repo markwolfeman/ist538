@@ -356,21 +356,15 @@ Exercise
 ------------
 # Unit 14:   July 24   Final Project Open Lab & Test Review
 
-Readings
+- Test 2 Review
+Test 2 Review:  
 
-Videos
-
-Presentation
-
-Exercise
+- Types of questions: match terms with definitions, complete code, mulitple choice, and one extra credit.
+- 120 minutes to finish exam, once started, must be completed.
+- You wil have a sheet of xml code, available here to complete some of the questions. - Print it out before you take the test.
+- All code based questions are based on homeworks and exercises. Terms and definitions are taken from the reading and my videos.
+- Except for the print out, the format is identical to Test 1. For most, it generally takes a little longer than the first test to complete.
 
 ------------
 # Unit 15:   July 29   Final Class 
 
-Readings
-
-Videos
-
-Presentation
-
-Exercise
