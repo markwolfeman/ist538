@@ -354,10 +354,9 @@ Exercise
 - none  
 
 ------------
-# Unit 14:   July 24   Final Project Open Lab & Test Review
+# Unit 14:   July 24   Final Project Open Lab & Test 2 Review
 
-- Test 2 Review
-Test 2 Review:  
+- **Test 2 Review**
 
 - Types of questions: match terms with definitions, complete code, mulitple choice, and one extra credit.
 - 120 minutes to finish exam, once started, must be completed.
