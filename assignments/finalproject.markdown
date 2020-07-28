@@ -7,7 +7,7 @@ permalink:
 <h1> Homework 1</h1>
 - [Final Project video instructions](https://youtu.be/nMLjicS-mVw) [5:34] 
 
-- You been asked to generate various baseball statistics for a popular pub, but with a twist.  You will need to use [BaseX](http://basex.org/) to do initial queries of the XML data, and then you will proceed to  code your project using XSL and CSS. Follow the instructions below to complete the project. To start the project, you will need to download this [.jpg file of Mike Piazza](http://www.albany.edu/~mwolfe/ist538/homework/final_project/piazza.jpg) and the [1998 baseball season roster of players](http://www.albany.edu/~mwolfe/ist538/homework/final_project/baseball_names.xml">baseball_names.xml)
+- You been asked to generate various baseball statistics for a popular pub, but with a twist.  You will need to use [BaseX](http://basex.org/) to do initial queries of the XML data, and then you will proceed to  code your project using XSL and CSS. Follow the instructions below to complete the project. To start the project, you will need to download this [.jpg file of Mike Piazza](http://www.albany.edu/~mwolfe/ist538/homework/final_project/piazza.jpg) and the [1998 baseball season roster of players](http://www.albany.edu/~mwolfe/ist538/homework/final_project/baseball_names.xml)
 - Your completed final project should look [like this.](http://www.albany.edu/~mwolfe/ist538/homework/final_project/final_project.jpg)
 
 **Part 1 XQuery (5 points)**
