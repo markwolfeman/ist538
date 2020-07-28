@@ -367,3 +367,8 @@ Exercise
 ------------
 # Unit 15:   July 29   Final Class 
 
+[Final Project](https://markwolfeman.github.io/ist538/assignments/finalproject.html) **Due Friday July 31**
+
+**Test 2, Due Sunday August 1 by 11pm**
+
+
