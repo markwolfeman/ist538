@@ -14,4 +14,4 @@ permalink: /assignments/
 
 ![homework](/assets/hw.jpg) [***Homework 5***](https://markwolfeman.github.io/ist538/assignments/homework5.html) **(Due July 27th)**
 
-![homework](/assets/hw.jpg) [***Final Project***](https://markwolfeman.github.io/ist538/assignments/finalproject.html) **(Due July 31st)**
+![homework](/assets/hw.jpg) [***Final Project***](https://markwolfeman.github.io/ist538/assignments/finalproject.html) **(Due Sunday August 2nd)**

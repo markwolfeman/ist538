@@ -34,6 +34,6 @@ permalink:
 - Add rounded corners: [how-to details](http://www.w3schools.com/css/css3_borders.asp)
 - Add drop shadow: [how-to details](http://www.w3schools.com/cssref/css3_pr_box-shadow.asp)
 - Once completed, you must individually send me one zip file that includes your ( .jpg, .css, .xsl, .xml, and .xq) files and email them to me. 
-- The assignment is **Due Friday, July 31st.**
+- The assignment is **Due Sunday August 2nd**
 
 - **This is a group assignment, so you are free to work together on this!**
